@@ -1,4 +1,4 @@
-namespace homework
+п»їnamespace homework
 {
     public partial class Form1 :Form {
         public Form1() {
@@ -27,20 +27,20 @@ namespace homework
             if (e.Button == MouseButtons.Right) {
                 Text = $"{this.Width} X {this.Height}";
             } else if (e.Button == MouseButtons.Left) {
-                MessageBox.Show("Вы нажали снаружи прямоугольник");
+                MessageBox.Show("Р’С‹ РЅР°Р¶Р°Р»Рё СЃРЅР°СЂСѓР¶Рё РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРє");
             }
         }
 
         private void label1_MouseDown(object sender, MouseEventArgs e) {
             if (e.Button == MouseButtons.Left && 
-                (e.Location.X == 1 && e.Location.Y <= label1.Height) || // Лево
-                (e.Location.Y + 1 == label1.Height && e.Location.X <= label1.Width) || // Низ
-                (e.Location.Y == 1 && e.Location.X <= label1.Width) || // Верх
-                (e.Location.X == label1.Width - 1 && e.Location.Y <= label1.Height + 1) // Право
+                (e.Location.X == 1 && e.Location.Y <= label1.Height) || // Р›РµРІРѕ
+                (e.Location.Y + 1 == label1.Height && e.Location.X <= label1.Width) || // РќРёР·
+                (e.Location.Y == 1 && e.Location.X <= label1.Width) || // Р’РµСЂС…
+                (e.Location.X == label1.Width - 1 && e.Location.Y <= label1.Height + 1) // РџСЂР°РІРѕ
                 ) {
-                MessageBox.Show("Вы нажали на границу прямоугольник");
+                MessageBox.Show("Р’С‹ РЅР°Р¶Р°Р»Рё РЅР° РіСЂР°РЅРёС†Сѓ РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРє");
             } else if (e.Button == MouseButtons.Left) {
-                MessageBox.Show("Вы нажали внутри прямоугольника" + $" Mouse: X: {e.Location.X}, Y: {e.Location.Y}\n" +
+                MessageBox.Show("Р’С‹ РЅР°Р¶Р°Р»Рё РІРЅСѓС‚СЂРё РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРёРєР°" + $" Mouse: X: {e.Location.X}, Y: {e.Location.Y}\n" +
                     $"Square: W: {label1.Width} H: {label1.Height}");
             }
         }
