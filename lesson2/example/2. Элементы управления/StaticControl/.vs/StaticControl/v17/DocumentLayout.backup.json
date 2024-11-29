@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. \u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\StaticControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCF71A62-E934-4506-AD63-403F3F60B139}|PrjNow\\PrjNow.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson2\\example\\2. \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\staticcontrol\\prjnow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCF71A62-E934-4506-AD63-403F3F60B139}|PrjNow\\PrjNow.csproj|solutionrelative:prjnow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B941D389-6929-4BD0-ACA0-A2DD07B37FA8}|CheckBoxControl\\CheckBoxControl.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson2\\example\\2. \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\staticcontrol\\checkboxcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B941D389-6929-4BD0-ACA0-A2DD07B37FA8}|CheckBoxControl\\CheckBoxControl.csproj|solutionrelative:checkboxcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCF71A62-E934-4506-AD63-403F3F60B139}|PrjNow\\PrjNow.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson2\\example\\2. \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\staticcontrol\\prjnow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DCF71A62-E934-4506-AD63-403F3F60B139}|PrjNow\\PrjNow.csproj|solutionrelative:prjnow\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B941D389-6929-4BD0-ACA0-A2DD07B37FA8}|CheckBoxControl\\CheckBoxControl.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson2\\example\\2. \u044D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\staticcontrol\\checkboxcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B941D389-6929-4BD0-ACA0-A2DD07B37FA8}|CheckBoxControl\\CheckBoxControl.csproj|solutionrelative:checkboxcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,25 +32,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. \u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\StaticControl\\PrjNow\\Form1.cs",
-              "RelativeDocumentMoniker": "PrjNow\\Form1.cs",
-              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. \u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\StaticControl\\PrjNow\\Form1.cs",
-              "RelativeToolTip": "PrjNow\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAWwBEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. \u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\StaticControl\\CheckBoxControl\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckBoxControl\\Form1.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. \u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\StaticControl\\CheckBoxControl\\Form1.cs",
+              "RelativeToolTip": "CheckBoxControl\\Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:45:31.064Z",
+              "WhenOpened": "2024-11-29T10:13:28.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. \u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\StaticControl\\PrjNow\\Form1.cs",
-              "RelativeDocumentMoniker": "PrjNow\\Form1.cs",
-              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. \u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\StaticControl\\PrjNow\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "PrjNow\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. \u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\StaticControl\\CheckBoxControl\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckBoxControl\\Form1.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. \u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u044F\\StaticControl\\CheckBoxControl\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CheckBoxControl\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T10:44:45.379Z",
+              "WhenOpened": "2024-11-29T10:13:26.683Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]

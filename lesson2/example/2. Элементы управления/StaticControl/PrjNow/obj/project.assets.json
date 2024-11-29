@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. Элементы управления\\StaticControl\\PrjNow\\PrjNow.csproj",
-      "projectName": "PrjNow",
-      "projectPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. Элементы управления\\StaticControl\\PrjNow\\PrjNow.csproj",
+      "projectUniqueName": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. Элементы управления\\StaticControl\\PrjNow\\test.csproj",
+      "projectName": "test",
+      "projectPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. Элементы управления\\StaticControl\\PrjNow\\test.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
       "outputPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson2\\example\\2. Элементы управления\\StaticControl\\PrjNow\\obj\\",
       "projectStyle": "PackageReference",

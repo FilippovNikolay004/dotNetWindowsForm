@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticControl", "StaticControl\StaticControl.csproj", "{EB35C6BC-BC33-48F0-87DB-353E2DC93379}"
 EndProject
@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthCalendarControl", "Mon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskedTextBoxControl", "MaskedTextBoxControl\MaskedTextBoxControl.csproj", "{38557F92-DC1B-41E2-90A1-2E5C1F4F5668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrjNow", "PrjNow\PrjNow.csproj", "{DCF71A62-E934-4506-AD63-403F3F60B139}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "PrjNow\test.csproj", "{DCF71A62-E934-4506-AD63-403F3F60B139}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
