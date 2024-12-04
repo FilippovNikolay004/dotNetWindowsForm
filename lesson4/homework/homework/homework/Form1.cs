@@ -1,4 +1,4 @@
-using System.Collections.Generic;
+п»їusing System.Collections.Generic;
 using System.Diagnostics;
 using static System.Net.Mime.MediaTypeNames;
 
@@ -70,7 +70,7 @@ namespace homework
             textBox6.Text = "5,40";
             textBox7.Text = "4,00";
 
-            label9.Text = "0 грн";
+            label9.Text = "0 РіСЂРЅ";
         }
 
 
@@ -78,11 +78,11 @@ namespace homework
             TotalSum = 0;
             TotalSum += CoffeeSum;
             TotalSum += RefuelingSum;
-            label10.Text = $"{TotalSum.ToString("F2")} грн";
+            label10.Text = $"{TotalSum.ToString("F2")} РіСЂРЅ";
         }
         private void CalculateLitersForMoney() {
             RefuelingSum = double.Parse(textBox1.Text) * double.Parse(textBox2.Text);
-            label6.Text = $"{RefuelingSum.ToString("F2")} грн";
+            label6.Text = $"{RefuelingSum.ToString("F2")} РіСЂРЅ";
         }
         private void CalculatePriceForLiters() {
             if (double.Parse(textBox1.Text) == 0) { return; }
@@ -100,17 +100,17 @@ namespace homework
                     double count = double.Parse(menu[i].price.Text);
                     double price = double.Parse(menu[i].count.Text);
 
-                    // Обновляем элемент
+                    // РћР±РЅРѕРІР»СЏРµРј СЌР»РµРјРµРЅС‚
                     menu[i] = (menu[i].price, menu[i].count, (menu[i].sum * 0) + price * count);
                     CoffeeSum += menu[i].sum;
                 }
             }
 
-            label9.Text = $"{CoffeeSum.ToString("F2")} грн";
+            label9.Text = $"{CoffeeSum.ToString("F2")} РіСЂРЅ";
         }
 
         
-        // Автозаправка
+        // РђРІС‚РѕР·Р°РїСЂР°РІРєР°
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e) {
             string selectedItem = comboBox1.SelectedItem.ToString();
             textBox1.Text = gasoline[selectedItem].ToString();
@@ -127,7 +127,7 @@ namespace homework
 
                 if (!string.IsNullOrEmpty(textBox2.Text) && textBox2.Enabled) { CalculateLitersForMoney(); }
                 else if (!string.IsNullOrEmpty(textBox3.Text) && textBox3.Enabled) { CalculatePriceForLiters(); }
-                else { label6.Text = $"0 грн"; label10.Text = $"0 грн"; }
+                else { label6.Text = $"0 РіСЂРЅ"; label10.Text = $"0 РіСЂРЅ"; }
 
                 SumTotalLabel();
             }
@@ -139,11 +139,11 @@ namespace homework
                 else { CalculatePriceForLiters(); }
 
                 SumTotalLabel();
-            } else { label6.Text = $"0 грн"; label10.Text = $"0 грн"; }
+            } else { label6.Text = $"0 РіСЂРЅ"; label10.Text = $"0 РіСЂРЅ"; }
         }
 
 
-        // Кофе
+        // РљРѕС„Рµ
         private void checkBox_CheckedChanged(object sender, EventArgs e) {
             CheckBox checkBox = (CheckBox)sender;
 
@@ -159,14 +159,14 @@ namespace homework
             if (checkBox4.Checked) { textBox10.Enabled = true; } 
             else { textBox10.Enabled = false; }
 
-            label9.Text = $"{CoffeeSum.ToString()} грн";
+            label9.Text = $"{CoffeeSum.ToString()} РіСЂРЅ";
         }
         private void AllTextBoxCoffe_TextChanged(object sender, EventArgs e) {
             TextBox textBox = (TextBox)sender;
 
             if (string.IsNullOrEmpty(textBox.Text)) {
                 CoffeeSum = 0;
-                label9.Text = $"0 грн";
+                label9.Text = $"0 РіСЂРЅ";
                 
                 SumTotalLabel();
                 return;
