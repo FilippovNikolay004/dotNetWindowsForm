@@ -2,8 +2,7 @@
 using System.Diagnostics;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace homework
-{
+namespace homework {
     public partial class Form1 :Form {
         Dictionary<string, double> gasoline;
         List<(TextBox price, TextBox count, double sum)> menu;
@@ -21,6 +20,12 @@ namespace homework
                 textBoxes[i].Text = "0";
             }
 
+            TextBox[] textBoxesEvents = { textBox8, textBox9, textBox11, textBox10 };
+            for (int i = 0; i < textBoxesEvents.Length; i++) {
+                textBoxesEvents[i].EnabledChanged += AllTextBoxCoffe_TextChanged;
+                textBoxesEvents[i].TextChanged += AllTextBoxCoffe_TextChanged;
+            }
+
             checkBox1.CheckedChanged += checkBox_CheckedChanged;
             checkBox2.CheckedChanged += checkBox_CheckedChanged;
             checkBox3.CheckedChanged += checkBox_CheckedChanged;
@@ -28,16 +33,6 @@ namespace homework
 
             textBox2.TextChanged += gasStation_TextChanged;
             textBox3.TextChanged += gasStation_TextChanged;
-
-            textBox8.EnabledChanged += AllTextBoxCoffe_TextChanged;
-            textBox9.EnabledChanged += AllTextBoxCoffe_TextChanged;
-            textBox11.EnabledChanged += AllTextBoxCoffe_TextChanged;
-            textBox10.EnabledChanged += AllTextBoxCoffe_TextChanged;
-
-            textBox8.TextChanged += AllTextBoxCoffe_TextChanged;
-            textBox9.TextChanged += AllTextBoxCoffe_TextChanged;
-            textBox11.TextChanged += AllTextBoxCoffe_TextChanged;
-            textBox10.TextChanged += AllTextBoxCoffe_TextChanged;
 
             radioButton1.CheckedChanged += AllRadioBatton_CheckedChanged;
             radioButton2.CheckedChanged += AllRadioBatton_CheckedChanged;
@@ -60,7 +55,7 @@ namespace homework
             };
 
             foreach (var item in gasoline) { comboBox1.Items.Add(item.Key); }
-            comboBox1.Text = comboBox1.Items[0].ToString();
+            comboBox1.Text = comboBox1.Items[0]?.ToString() ?? "Default Value";
 
             textBox1.Enabled = false;
             textBox2.Enabled = true;
@@ -81,17 +76,15 @@ namespace homework
             label10.Text = $"{TotalSum.ToString("F2")} грн";
         }
         private void CalculateLitersForMoney() {
-            RefuelingSum = double.Parse(textBox1.Text) * double.Parse(textBox2.Text);
-            label6.Text = $"{RefuelingSum.ToString("F2")} грн";
-        }
-        private void CalculatePriceForLiters() {
-            if (double.Parse(textBox1.Text) == 0) { return; }
-
             double sum = double.Parse(textBox3.Text);
             double fuelPrice = double.Parse(textBox1.Text);
 
             RefuelingSum = sum;
-            textBox2.Text = (sum / fuelPrice).ToString("F2");
+            textBox2.Text = (sum / fuelPrice).ToString("F3");
+        }
+        private void CalculatePriceForLiters() {
+            RefuelingSum = double.Parse(textBox1.Text) * double.Parse(textBox2.Text);
+            label6.Text = $"{RefuelingSum.ToString("F2")} грн";
         }
         private void CalculateCafeOrderTotal() {
             CoffeeSum = 0;
@@ -112,59 +105,65 @@ namespace homework
         
         // Автозаправка
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e) {
-            string selectedItem = comboBox1.SelectedItem.ToString();
+            if (comboBox1.SelectedItem == null) { return; }
+
+            string selectedItem = comboBox1.SelectedItem.ToString() ?? string.Empty;
             textBox1.Text = gasoline[selectedItem].ToString();
 
-            CalculateLitersForMoney();
+            if (radioButton1.Checked) { CalculatePriceForLiters(); }
+            else if (radioButton2.Checked) { CalculateLitersForMoney(); }
+
             SumTotalLabel();
         }
-        private void AllRadioBatton_CheckedChanged(object sender, EventArgs e) {
+        private void AllRadioBatton_CheckedChanged(object? sender, EventArgs e) {
+            if (sender == null) { return; }
             RadioButton radioButton = (RadioButton)sender;
 
             if(radioButton.Checked) {
-                textBox2.Enabled = textBox2.Enabled ? false : true;
-                textBox3.Enabled = textBox3.Enabled ? false : true;
+                textBox2.Enabled = !textBox2.Enabled;
+                textBox3.Enabled = !textBox3.Enabled;
 
-                if (!string.IsNullOrEmpty(textBox2.Text) && textBox2.Enabled) { CalculateLitersForMoney(); }
-                else if (!string.IsNullOrEmpty(textBox3.Text) && textBox3.Enabled) { CalculatePriceForLiters(); }
+                if (!string.IsNullOrEmpty(textBox2.Text) && textBox2.Enabled) { 
+                    if (textBox3.Text.Length == 0) { textBox3.Text = "0";  }
+                    CalculatePriceForLiters(); 
+                }
+                else if (!string.IsNullOrEmpty(textBox3.Text) && textBox3.Enabled) { CalculateLitersForMoney(); }
                 else { label6.Text = $"0 грн"; label10.Text = $"0 грн"; }
 
                 SumTotalLabel();
             }
         }
-        private void gasStation_TextChanged(object sender, EventArgs e) {
+        private void gasStation_TextChanged(object? sender, EventArgs e) {
+            if (sender == null) { return; }
             TextBox textBox = (TextBox)sender;
             if (!string.IsNullOrEmpty(textBox.Text)) {
-                if (textBox.Name == "textBox2") { CalculateLitersForMoney(); }
-                else { CalculatePriceForLiters(); }
+                if (textBox.Name == "textBox2") { CalculatePriceForLiters(); }
+                else { CalculateLitersForMoney(); }
 
                 SumTotalLabel();
             } else { label6.Text = $"0 грн"; label10.Text = $"0 грн"; }
         }
-
+        
 
         // Кофе
-        private void checkBox_CheckedChanged(object sender, EventArgs e) {
-            CheckBox checkBox = (CheckBox)sender;
+        private void checkBox_CheckedChanged(object? sender, EventArgs e) {
+            if (sender == null) { return; }
+            
+            CheckBox[] checkBoxes = { checkBox1, checkBox2, checkBox3, checkBox4 };
+            TextBox[] textBoxes = { textBox8, textBox9, textBox11, textBox10 };
 
-            if (checkBox1.Checked) { textBox8.Enabled = true; } 
-            else { textBox8.Enabled = false; }
+            if (checkBoxes.Length != textBoxes.Length) { return; }
 
-            if (checkBox2.Checked) { textBox9.Enabled = true; } 
-            else { textBox9.Enabled = false; }
-
-            if (checkBox3.Checked) { textBox11.Enabled = true; } 
-            else { textBox11.Enabled = false; }
-
-            if (checkBox4.Checked) { textBox10.Enabled = true; } 
-            else { textBox10.Enabled = false; }
+            for (int i = 0; i < checkBoxes.Length; i++)
+                textBoxes[i].Enabled = checkBoxes[i].Checked;
 
             label9.Text = $"{CoffeeSum.ToString()} грн";
         }
-        private void AllTextBoxCoffe_TextChanged(object sender, EventArgs e) {
+        private void AllTextBoxCoffe_TextChanged(object? sender, EventArgs e) {
+            if (sender == null) { return; }
             TextBox textBox = (TextBox)sender;
 
-            if (string.IsNullOrEmpty(textBox.Text)) {
+            if (string.IsNullOrEmpty(textBox.Text) || !double.TryParse(textBox.Text, out double result )) {
                 CoffeeSum = 0;
                 label9.Text = $"0 грн";
                 
