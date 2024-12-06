@@ -1,0 +1,17 @@
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\bin\Debug\net8.0-windows\Login.exe
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\bin\Debug\net8.0-windows\Login.dll.config
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\bin\Debug\net8.0-windows\Login.deps.json
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\bin\Debug\net8.0-windows\Login.dll
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\bin\Debug\net8.0-windows\Login.pdb
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\Login.LoginForm.resources
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\Login.MainForm.resources
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\Login.Properties.Resources.resources
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\Login.Spaghetti.csproj.GenerateResource.cache
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\Login.Spaghetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\Login.Spaghetti.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\Login.dll
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\refint\Login.dll
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\Login.pdb
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\Login.Spaghetti.genruntimeconfig.cache
+C:\Users\krisc\OneDrive\Desktop\MVP\MVP.-Login-master\Login.Spaghetti\obj\Debug\net8.0-windows\ref\Login.dll

@@ -1,0 +1,17 @@
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\bin\Debug\net8.0-windows7.0\Calculator.exe
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\bin\Debug\net8.0-windows7.0\Calculator.deps.json
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\bin\Debug\net8.0-windows7.0\Calculator.runtimeconfig.json
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\bin\Debug\net8.0-windows7.0\Calculator.dll
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\bin\Debug\net8.0-windows7.0\Calculator.pdb
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.CalcForm.resources
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.csproj.GenerateResource.cache
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.AssemblyInfoInputs.cache
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.AssemblyInfo.cs
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.sourcelink.json
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.dll
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\refint\Calculator.dll
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.pdb
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\Calculator.genruntimeconfig.cache
+D:\Step\3 course\dotNetWindowsForm\lesson5\example\MVP\MVP.-Calculator.-Good-architecture--master\Calculator\obj\Debug\net8.0-windows7.0\ref\Calculator.dll

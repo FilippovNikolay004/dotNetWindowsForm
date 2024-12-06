@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Login-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{219A9060-D1E8-4E6A-906A-DC1E05706662}|Login.Mvp\\Login.Mvp.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-login-master\\login.mvp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219A9060-D1E8-4E6A-906A-DC1E05706662}|Login.Mvp\\Login.Mvp.csproj|solutionrelative:login.mvp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219A9060-D1E8-4E6A-906A-DC1E05706662}|Login.Mvp\\Login.Mvp.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-login-master\\login.mvp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{219A9060-D1E8-4E6A-906A-DC1E05706662}|Login.Mvp\\Login.Mvp.csproj|solutionrelative:login.mvp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C79E3E48-19BB-4070-9BC8-A600DC7533C6}|Login.Spaghetti\\Login.Spaghetti.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-login-master\\login.spaghetti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C79E3E48-19BB-4070-9BC8-A600DC7533C6}|Login.Spaghetti\\Login.Spaghetti.csproj|solutionrelative:login.spaghetti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219A9060-D1E8-4E6A-906A-DC1E05706662}|Login.Mvp\\Login.Mvp.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-login-master\\login.mvp\\loginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{219A9060-D1E8-4E6A-906A-DC1E05706662}|Login.Mvp\\Login.Mvp.csproj|solutionrelative:login.mvp\\loginpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Login-master\\Login.Mvp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Login.Mvp\\LoginForm.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Login-master\\Login.Mvp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Login.Mvp\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:03:05.795Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Login-master\\Login.Mvp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Login.Mvp\\LoginForm.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Login-master\\Login.Mvp\\LoginForm.cs",
+              "RelativeToolTip": "Login.Mvp\\LoginForm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:41:49.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPresenter.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Login-master\\Login.Mvp\\LoginPresenter.cs",
+              "RelativeDocumentMoniker": "Login.Mvp\\LoginPresenter.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Login-master\\Login.Mvp\\LoginPresenter.cs",
+              "RelativeToolTip": "Login.Mvp\\LoginPresenter.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:42:30.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Login-master\\Login.Spaghetti\\Program.cs",
+              "RelativeDocumentMoniker": "Login.Spaghetti\\Program.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Login-master\\Login.Spaghetti\\Program.cs",
+              "RelativeToolTip": "Login.Spaghetti\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:15:47.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
