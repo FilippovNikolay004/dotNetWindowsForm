@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\icalculateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\icalculateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\calculatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\calculatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,63 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CalculatePresenter.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\CalculatePresenter.cs",
-              "RelativeDocumentMoniker": "Calculator\\CalculatePresenter.cs",
-              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\CalculatePresenter.cs",
-              "RelativeToolTip": "Calculator\\CalculatePresenter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:41:42.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\Form1.cs",
-              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
-              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\Form1.cs",
-              "RelativeToolTip": "Calculator\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:42:18.075Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICalculateView.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\ICalculateView.cs",
-              "RelativeDocumentMoniker": "Calculator\\ICalculateView.cs",
-              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\ICalculateView.cs",
-              "RelativeToolTip": "Calculator\\ICalculateView.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAWwAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:41:56.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IModel.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\IModel.cs",
-              "RelativeDocumentMoniker": "Calculator\\IModel.cs",
-              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\IModel.cs",
-              "RelativeToolTip": "Calculator\\IModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:41:58.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Model.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\Model.cs",
               "RelativeDocumentMoniker": "Calculator\\Model.cs",
@@ -103,24 +55,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\Program.cs",
-              "RelativeDocumentMoniker": "Calculator\\Program.cs",
-              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\Program.cs",
-              "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\IModel.cs",
+              "RelativeDocumentMoniker": "Calculator\\IModel.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\IModel.cs",
+              "RelativeToolTip": "Calculator\\IModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:40:54.092Z",
+              "WhenOpened": "2024-12-05T11:41:58.491Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICalculateView.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\ICalculateView.cs",
+              "RelativeDocumentMoniker": "Calculator\\ICalculateView.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\ICalculateView.cs",
+              "RelativeToolTip": "Calculator\\ICalculateView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:41:56.704Z",
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatePresenter.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\CalculatePresenter.cs",
+              "RelativeDocumentMoniker": "Calculator\\CalculatePresenter.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\CalculatePresenter.cs",
+              "RelativeToolTip": "Calculator\\CalculatePresenter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:41:42.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "Calculator\\Form1.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\Form1.cs",
+              "RelativeToolTip": "Calculator\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T11:42:18.075Z",
+              "EditorCaption": ""
             }
           ]
         }

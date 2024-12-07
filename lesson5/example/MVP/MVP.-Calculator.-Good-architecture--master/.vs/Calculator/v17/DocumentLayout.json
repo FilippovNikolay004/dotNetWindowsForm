@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\calculatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\example\\mvp\\mvp.-calculator.-good-architecture--master\\calculator\\calculatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0D1C306-64DB-40F3-AABE-3058B027DF62}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculatepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Model.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\Model.cs",
               "RelativeDocumentMoniker": "Calculator\\Model.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "Calculator\\Model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:41:37.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T11:41:37.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IModel.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\IModel.cs",
               "RelativeDocumentMoniker": "Calculator\\IModel.cs",
@@ -68,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ICalculateView.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\ICalculateView.cs",
               "RelativeDocumentMoniker": "Calculator\\ICalculateView.cs",
@@ -76,25 +75,24 @@
               "RelativeToolTip": "Calculator\\ICalculateView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:41:56.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T11:41:56.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CalculatePresenter.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\CalculatePresenter.cs",
               "RelativeDocumentMoniker": "Calculator\\CalculatePresenter.cs",
               "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\CalculatePresenter.cs",
               "RelativeToolTip": "Calculator\\CalculatePresenter.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T11:41:42.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\example\\MVP\\MVP.-Calculator.-Good-architecture--master\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "Calculator\\Form1.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAIwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T11:42:18.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T11:42:18.075Z"
             }
           ]
         }

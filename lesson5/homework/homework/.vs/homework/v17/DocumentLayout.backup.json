@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\homework\\homework\\homework\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|solutionrelative:homework\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\homework\\homework\\homework\\igameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|solutionrelative:homework\\igameview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\homework\\homework\\homework\\gamepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|solutionrelative:homework\\gamepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\homework\\homework\\homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|solutionrelative:homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson5\\homework\\homework\\homework\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|solutionrelative:homework\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51E3C893-04EA-4214-A37A-A2918CB7E91F}|homework\\homework.csproj|D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +46,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Form1.cs",
-              "RelativeDocumentMoniker": "homework\\Form1.cs",
-              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Form1.cs [Design]",
-              "RelativeToolTip": "homework\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:53:10.968Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Form1.cs",
               "RelativeDocumentMoniker": "homework\\Form1.cs",
               "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Form1.cs",
               "RelativeToolTip": "homework\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T10:56:46.259Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamePresenter.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\GamePresenter.cs",
+              "RelativeDocumentMoniker": "homework\\GamePresenter.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\GamePresenter.cs",
+              "RelativeToolTip": "homework\\GamePresenter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:08:55.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameView.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\IGameView.cs",
+              "RelativeDocumentMoniker": "homework\\IGameView.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\IGameView.cs",
+              "RelativeToolTip": "homework\\IGameView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:09:19.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Model.cs",
+              "RelativeDocumentMoniker": "homework\\Model.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Model.cs",
+              "RelativeToolTip": "homework\\Model.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswEkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:08:00.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\IModel.cs",
+              "RelativeDocumentMoniker": "homework\\IModel.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\IModel.cs",
+              "RelativeToolTip": "homework\\IModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T18:07:16.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Form1.cs",
+              "RelativeDocumentMoniker": "homework\\Form1.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "homework\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T20:53:10.968Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }

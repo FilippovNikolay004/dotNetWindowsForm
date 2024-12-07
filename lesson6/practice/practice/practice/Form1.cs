@@ -2,7 +2,7 @@ namespace practice
 {
     public partial class Form1 :Form, ILibraryView {
 
-        #region ILoginView Implementation
+        #region ILibraryView Implementation
         public TextBox[] TextBoxes { get; set; }
         public Label[] Labels { get; set; }
         public Label Output { get; set; }
