@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson3\\homework\\homework\\homework\\Form1.cs",
               "RelativeDocumentMoniker": "homework\\Form1.cs",
-              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson3\\homework\\homework\\homework\\Form1.cs [Design]",
-              "RelativeToolTip": "homework\\Form1.cs [Design]",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson3\\homework\\homework\\homework\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "homework\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T20:53:10.968Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "homework\\Form1.cs",
               "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson3\\homework\\homework\\homework\\Form1.cs",
               "RelativeToolTip": "homework\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-29T10:56:46.259Z",
               "EditorCaption": ""

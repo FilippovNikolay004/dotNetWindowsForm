@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson7\\practice\\practice\\practice\\librarypresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|solutionrelative:practice\\librarypresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson7\\practice\\practice\\practice\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|solutionrelative:practice\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson7\\practice\\practice\\practice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|solutionrelative:practice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson7\\practice\\practice\\practice\\ilibraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|solutionrelative:practice\\ilibraryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson7\\practice\\practice\\practice\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|solutionrelative:practice\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC90BEAF-C1F0-4E41-9C96-5D4B2B4DBEA0}|practice\\practice.csproj|solutionrelative:practice\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\Form1.cs",
+              "RelativeDocumentMoniker": "practice\\Form1.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "practice\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:54:49.654Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\Form1.cs",
+              "RelativeDocumentMoniker": "practice\\Form1.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\Form1.cs",
+              "RelativeToolTip": "practice\\Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwFEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T10:54:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryPresenter.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\LibraryPresenter.cs",
+              "RelativeDocumentMoniker": "practice\\LibraryPresenter.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\LibraryPresenter.cs",
+              "RelativeToolTip": "practice\\LibraryPresenter.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:14:31.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\Model.cs",
+              "RelativeDocumentMoniker": "practice\\Model.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\Model.cs",
+              "RelativeToolTip": "practice\\Model.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwEgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:38:55.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILibraryView.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\ILibraryView.cs",
+              "RelativeDocumentMoniker": "practice\\ILibraryView.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\ILibraryView.cs",
+              "RelativeToolTip": "practice\\ILibraryView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:11:26.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\IModel.cs",
+              "RelativeDocumentMoniker": "practice\\IModel.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson7\\practice\\practice\\practice\\IModel.cs",
+              "RelativeToolTip": "practice\\IModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T11:13:38.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
