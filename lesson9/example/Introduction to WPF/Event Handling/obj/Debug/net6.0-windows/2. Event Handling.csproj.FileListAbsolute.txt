@@ -1,0 +1,20 @@
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\bin\Debug\net6.0-windows\2. Event Handling.exe
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\bin\Debug\net6.0-windows\2. Event Handling.deps.json
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\bin\Debug\net6.0-windows\2. Event Handling.runtimeconfig.json
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\bin\Debug\net6.0-windows\2. Event Handling.dll
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\bin\Debug\net6.0-windows\2. Event Handling.pdb
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\App.g.cs
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling.g.resources
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling.AssemblyInfoInputs.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling.AssemblyInfo.cs
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling.dll
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\refint\2. Event Handling.dll
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling.pdb
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\2. Event Handling.genruntimeconfig.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Event Handling\obj\Debug\net6.0-windows\ref\2. Event Handling.dll

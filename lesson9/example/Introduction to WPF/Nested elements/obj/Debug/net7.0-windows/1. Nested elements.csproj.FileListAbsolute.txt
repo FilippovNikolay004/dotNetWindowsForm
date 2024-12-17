@@ -1,0 +1,39 @@
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.exe
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.deps.json
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.runtimeconfig.json
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.dll
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.pdb
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\MainWindow.baml
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\App.g.cs
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.g.resources
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.AssemblyInfoInputs.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.AssemblyInfo.cs
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.dll
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\refint\1. Nested elements.dll
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.pdb
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.genruntimeconfig.cache
+D:\ITSTEP\WPF\Примеры\1. Введение в WPF\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\ref\1. Nested elements.dll
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.exe
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.deps.json
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.runtimeconfig.json
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.dll
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\bin\Debug\net7.0-windows\1. Nested elements.pdb
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements_MarkupCompile.cache
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.g.resources
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.AssemblyInfoInputs.cache
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.AssemblyInfo.cs
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.csproj.CoreCompileInputs.cache
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.dll
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\refint\1. Nested elements.dll
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.pdb
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\1. Nested elements.genruntimeconfig.cache
+C:\Users\krisc\OneDrive\Desktop\Introduction to WPF\Nested elements\obj\Debug\net7.0-windows\ref\1. Nested elements.dll
