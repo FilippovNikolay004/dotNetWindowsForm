@@ -1,0 +1,76 @@
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.baml
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample_MarkupCompile.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.g.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel_Sample.Properties.Resources.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.csproj.GenerateResource.Cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.pdb
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.pdb
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.pdb
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.pdb
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.baml
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample_MarkupCompile.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.g.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel_Sample.Properties.Resources.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Пример №1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.csproj.GenerateResource.Cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel_Sample.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel_Sample.Properties.Resources.resources
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.exe
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\3. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.exe.config
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.csprojResolveAssemblyReference.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.baml
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\App.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample_MarkupCompile.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.g.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel_Sample.Properties.Resources.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.csproj.GenerateResource.Cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.exe.config
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\bin\Debug\DockPanel Sample.pdb
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.baml
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\Window1.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\App.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.g.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel_Sample.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\1. C# код\DockPanel Sample\DockPanel Sample\obj\Debug\DockPanel Sample.pdb

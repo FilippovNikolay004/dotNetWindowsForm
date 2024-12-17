@@ -1,0 +1,83 @@
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\bin\Debug\Grid sample.exe
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\bin\Debug\Grid sample.pdb
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\Window1.baml
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\Window1.g.cs
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\App.g.cs
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\Grid sample_MarkupCompile.cache
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\Grid sample.g.resources
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\Grid_sample.Properties.Resources.resources
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\Grid sample.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\Grid sample.exe
+C:\Users\Vitaliy\Desktop\Grid sample\Grid sample\obj\Debug\Grid sample.pdb
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.pdb
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.pdb
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Window1.baml
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample_MarkupCompile.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.g.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid_sample.Properties.Resources.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Window1.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\App.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample_MarkupCompile.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.g.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid_sample.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.csproj.GenerateResource.Cache
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.exe
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.pdb
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.exe
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.pdb
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Window1.baml
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Window1.g.cs
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\App.g.cs
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample_MarkupCompile.cache
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.g.resources
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid_sample.Properties.Resources.resources
+C:\Documents and Settings\polyanskiy\Рабочий стол\WPF\Примеры\Контейнеры\Контейнер Grid\Пример №1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.csproj.GenerateResource.Cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Window1.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid_sample.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Window1.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Window1.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid_sample.Properties.Resources.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.csprojResolveAssemblyReference.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Window1.baml
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Window1.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\App.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample_MarkupCompile.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.g.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid_sample.Properties.Resources.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\obj\Debug\Grid sample.csproj.GenerateResource.Cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\1. C# код\Grid sample\Grid sample\bin\Debug\Grid sample.exe.config

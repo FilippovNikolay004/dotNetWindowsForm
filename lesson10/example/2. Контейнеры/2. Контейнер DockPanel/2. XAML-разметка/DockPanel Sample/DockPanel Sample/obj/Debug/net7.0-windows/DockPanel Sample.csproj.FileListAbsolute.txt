@@ -1,0 +1,21 @@
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\bin\Debug\net7.0-windows\DockPanel Sample.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\bin\Debug\net7.0-windows\DockPanel Sample.dll.config
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\bin\Debug\net7.0-windows\DockPanel Sample.deps.json
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\bin\Debug\net7.0-windows\DockPanel Sample.runtimeconfig.json
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\bin\Debug\net7.0-windows\DockPanel Sample.dll
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\bin\Debug\net7.0-windows\DockPanel Sample.pdb
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel Sample.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\Window1.baml
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\Window1.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\App.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel Sample_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel Sample.g.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel_Sample.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel Sample.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel Sample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel Sample.dll
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\refint\DockPanel Sample.dll
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel Sample.pdb
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\DockPanel Sample.genruntimeconfig.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\2. Контейнер DockPanel\2. XAML-разметка\DockPanel Sample\DockPanel Sample\obj\Debug\net7.0-windows\ref\DockPanel Sample.dll

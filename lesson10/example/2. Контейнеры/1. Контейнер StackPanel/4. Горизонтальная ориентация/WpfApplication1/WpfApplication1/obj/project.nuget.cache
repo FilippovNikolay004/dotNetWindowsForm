@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aGZwCAjta2x18++r3GrtrPlV8OT+4udvxMjiVp7pOp8/xJmqjyNluPDGIYHB4E0PeCuiifWbhEeslQc3TpP5SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\2. Контейнеры\\1. Контейнер StackPanel\\4. Горизонтальная ориентация\\WpfApplication1\\WpfApplication1\\WpfApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

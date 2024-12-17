@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hpZdWz8CkXiLCag/bvYeRZqjpCf5B+RFKBfQGvb/sCKEBgZqC/pXZTKG/c/slUzbSHeJ+cMrypZ+5rW0lI6xw==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\2. Контейнеры\\6. Контейнер Canvas\\2. XAML-разметка\\Canvas sample\\Canvas sample\\Canvas sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

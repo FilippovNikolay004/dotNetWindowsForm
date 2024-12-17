@@ -1,0 +1,64 @@
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.pdb
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.baml
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample_MarkupCompile.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.g.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel_sample.Properties.Resources.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.csproj.GenerateResource.Cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер StackPanel\Пример №1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel_sample.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel_sample.Properties.Resources.resources
+D:\Vitaliy\WPF\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.exe
+D:\Vitaliy\WPF\WPF\Примеры\2. Контейнеры\2. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.exe.config
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.csprojResolveAssemblyReference.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.baml
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\App.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample_MarkupCompile.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.g.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel_sample.Properties.Resources.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.csproj.GenerateResource.Cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.exe.config
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\bin\Debug\StackPanel sample.pdb
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.baml
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\Window1.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\App.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.g.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel_sample.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\1. Контейнер StackPanel\1. C# код\StackPanel sample\StackPanel sample\obj\Debug\StackPanel sample.pdb

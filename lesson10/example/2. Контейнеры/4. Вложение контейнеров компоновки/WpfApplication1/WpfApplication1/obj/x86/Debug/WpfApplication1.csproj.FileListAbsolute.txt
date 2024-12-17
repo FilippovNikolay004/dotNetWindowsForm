@@ -1,0 +1,81 @@
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Виталий\Desktop\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\БПУ-1211\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\5. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\4. Вложение контейнеров компоновки\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb

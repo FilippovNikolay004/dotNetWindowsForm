@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lzi6OdLYmWXJojPhqNVv4PwrqtBFEp7ca2M0RbIMBfEIKjBRpo4fiZWz/NLBG4sVZ012amIxtfMa9v30faDtwA==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\2. Контейнеры\\5. Контейнер Grid\\3. Объединение строк и колонок\\Grid\\Grid\\Grid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

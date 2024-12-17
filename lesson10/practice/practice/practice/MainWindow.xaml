@@ -1,0 +1,25 @@
+﻿<Window x:Class="practice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:practice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Margin="5" Orientation="Horizontal" HorizontalAlignment="Center" Background="AliceBlue">
+            <TextBox Name="val1" Margin="5" MinWidth="50">1</TextBox>
+            <Button Margin="5" MinWidth="100">+</Button>
+            <TextBox Name="val2" Margin="5" MinWidth="50">1</TextBox>
+            <Button Margin="5" MinWidth="100" Click="Button_Click">=</Button>
+        </StackPanel>
+        <StackPanel Grid.Row="1">
+            <TextBlock Name="res">1</TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

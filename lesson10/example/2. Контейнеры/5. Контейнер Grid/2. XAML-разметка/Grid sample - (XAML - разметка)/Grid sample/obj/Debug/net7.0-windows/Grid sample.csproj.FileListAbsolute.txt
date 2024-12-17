@@ -1,0 +1,21 @@
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\bin\Debug\net7.0-windows\Grid sample.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\bin\Debug\net7.0-windows\Grid sample.dll.config
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\bin\Debug\net7.0-windows\Grid sample.deps.json
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\bin\Debug\net7.0-windows\Grid sample.runtimeconfig.json
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\bin\Debug\net7.0-windows\Grid sample.dll
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\bin\Debug\net7.0-windows\Grid sample.pdb
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid sample.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Window1.baml
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Window1.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\App.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid sample_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid sample.g.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid_sample.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid sample.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid sample.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid sample.dll
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\refint\Grid sample.dll
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid sample.pdb
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\Grid sample.genruntimeconfig.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\2. XAML-разметка\Grid sample - (XAML - разметка)\Grid sample\obj\Debug\net7.0-windows\ref\Grid sample.dll

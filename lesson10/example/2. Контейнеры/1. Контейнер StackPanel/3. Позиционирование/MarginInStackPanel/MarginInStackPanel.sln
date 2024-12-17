@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarginInStackPanel", "MarginInStackPanel\MarginInStackPanel.csproj", "{B304FBFA-5820-4A89-B8A5-D08C16648352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B304FBFA-5820-4A89-B8A5-D08C16648352}.Debug|x64.ActiveCfg = Debug|x64
+		{B304FBFA-5820-4A89-B8A5-D08C16648352}.Debug|x64.Build.0 = Debug|x64
+		{B304FBFA-5820-4A89-B8A5-D08C16648352}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B304FBFA-5820-4A89-B8A5-D08C16648352}.Debug|x86.Build.0 = Debug|Any CPU
+		{B304FBFA-5820-4A89-B8A5-D08C16648352}.Release|x64.ActiveCfg = Release|x64
+		{B304FBFA-5820-4A89-B8A5-D08C16648352}.Release|x64.Build.0 = Release|x64
+		{B304FBFA-5820-4A89-B8A5-D08C16648352}.Release|x86.ActiveCfg = Release|x86
+		{B304FBFA-5820-4A89-B8A5-D08C16648352}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

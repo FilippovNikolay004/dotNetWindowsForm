@@ -1,0 +1,66 @@
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\bin\Debug\WrapPanel.exe
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\bin\Debug\WrapPanel.pdb
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.baml
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\App.g.cs
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel_MarkupCompile.cache
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.g.resources
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.Properties.Resources.resources
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.exe
+C:\Users\Виталий\Desktop\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.exe
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.pdb
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.exe
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.pdb
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.csprojResolveAssemblyReference.cache
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.baml
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\App.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel_MarkupCompile.cache
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.g.resources
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.Properties.Resources.resources
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\4. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.csproj.GenerateResource.Cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.exe.config
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.csprojResolveAssemblyReference.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.baml
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\App.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel_MarkupCompile.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.g.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.Properties.Resources.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.csproj.GenerateResource.Cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.exe.config
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\bin\Debug\WrapPanel.pdb
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.baml
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\MainWindow.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\App.g.cs
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.g.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.exe
+D:\ITSTEP\WPF\Примеры\2. Контейнеры\3. Контейнер WrapPanel\WrapPanel\WrapPanel\obj\x86\Debug\WrapPanel.pdb

@@ -1,0 +1,60 @@
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\bin\Debug\Canvas sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\bin\Debug\Canvas sample.pdb
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\Window1.baml
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\Canvas sample_MarkupCompile.cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\Canvas sample.g.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\Canvas_sample.Properties.Resources.resources
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\Canvas sample.csproj.GenerateResource.Cache
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\Canvas sample.exe
+C:\Учебный процесс\WPF\Контейнеры\Контейнер DockPanel\Canvas sample\Canvas sample\obj\Debug\Canvas sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\bin\Debug\Canvas sample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\bin\Debug\Canvas sample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Window1.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas_sample.Properties.Resources.resources
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.exe
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.pdb
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\bin\Debug\Canvas sample.exe
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\bin\Debug\Canvas sample.pdb
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Window1.baml
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Window1.g.cs
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\App.g.cs
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample_MarkupCompile.cache
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.g.resources
+C:\Vitaliy\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas_sample.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\bin\Debug\Canvas sample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\bin\Debug\Canvas sample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Window1.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Window1.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas_sample.Properties.Resources.resources
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.exe
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\7. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\bin\Debug\Canvas sample.exe.config
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\bin\Debug\Canvas sample.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\bin\Debug\Canvas sample.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.csprojResolveAssemblyReference.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Window1.baml
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Window1.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\App.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample_MarkupCompile.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.g.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas_sample.Properties.Resources.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\6. Контейнер Canvas\2. XAML-разметка\Canvas sample\Canvas sample\obj\Debug\Canvas sample.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8s6Xu4/eXuJ5lUja1r77sCTudPf+tPO/Q/HL2eyClmbpntBTc3QPKUgK+IKTYg6f9/6p5av3IMlTtkw47NNFQ==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\2. Контейнеры\\1. Контейнер StackPanel\\3. Позиционирование\\MarginInStackPanel\\MarginInStackPanel\\MarginInStackPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

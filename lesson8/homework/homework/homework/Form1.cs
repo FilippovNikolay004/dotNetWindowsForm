@@ -23,6 +23,8 @@ namespace homework
             resizedImage = new Bitmap(Image.FromFile("exit.png"), new Size(20, 20));
             button9.Image = resizedImage;
 
+            listBox1.Enabled = false;
+
             int[] prize = { 100, 200, 300, 500, 1000, 2000, 4000, 8000, 16000, 32000, 64000, 125000, 250000, 500000, 1000000 };
             for (int i = 0; i < prize.Length; i++) {
                 listBox1.Items.Add($"{prize.Length - i} - {prize[prize.Length - 1 - i]}");
@@ -30,6 +32,8 @@ namespace homework
         }
 
         private void Form1_Load(object sender, EventArgs e) {
+            List<Question> questions = new List<Question>();
+
             Button[] buttons = [button1, button2, button3, button4];
 
             Dictionary<string, string[]> questionAndAnswerOptions = new Dictionary<string, string[]>();
@@ -40,6 +44,7 @@ namespace homework
             int i = 0;
             string tempQuestion = string.Empty;
             List<string> AnswerOptions = new List<string>();
+            int indexCorrectAnswer = 0;
 
             while (!sr.EndOfStream) {
                 string line = sr.ReadLine()?.Trim()??"";
@@ -49,13 +54,16 @@ namespace homework
                     tempQuestion = line;
                     i++;
                 } else if (i <= 4) {
+                    if (line.IndexOf("true") != -1)
+                        indexCorrectAnswer = i - 1;
+
                     AnswerOptions.Add(line);
                     i++;
                 } 
                 
                 if (i == 5) {
-                    questionAndAnswerOptions.Add(tempQuestion, AnswerOptions.ToArray());
-                    AnswerOptions.Clear();
+                    questions.Add(new Question(tempQuestion, AnswerOptions, "t"));
+                    //AnswerOptions.Clear();
                     i = 0;
                 }
             }
@@ -63,10 +71,10 @@ namespace homework
             sr.Close();
             fs.Close();
 
-            foreach (var item in questionAndAnswerOptions) {
-                label1.Text = item.Key;
-                for (int j = 0; j < item.Value.Length; j++) {
-                    buttons[j].Text = item.Value[j];
+            foreach (var item in questions) {
+                label1.Text = item.Text;
+                for (int j = 0; j < item.Options.Count; j++) {
+                    buttons[j].Text = $"{(j == 0 ? "A" : j == 1 ? "B" : j == 2 ? "C" : "D")}: {item.Options[j]}";
                 }
             }
         }

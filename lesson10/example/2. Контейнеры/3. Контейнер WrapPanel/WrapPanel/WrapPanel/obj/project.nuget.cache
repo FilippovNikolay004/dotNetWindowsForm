@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JzVksPOcokTbQxlUliTBaJlg6ucrY2f/hRt5OPXe7SbX8CR63Iyrphvm8Wgf+QNfTdAii22nU3dSD9RWcXPZbw==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\2. Контейнеры\\3. Контейнер WrapPanel\\WrapPanel\\WrapPanel\\WrapPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

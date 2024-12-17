@@ -1,0 +1,50 @@
+C:\Users\Виталий\Desktop\Splitter\Splitter\bin\Debug\Splitter.exe
+C:\Users\Виталий\Desktop\Splitter\Splitter\bin\Debug\Splitter.pdb
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\MainWindow.baml
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\App.g.cs
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\Splitter_MarkupCompile.cache
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\Splitter.g.resources
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\Splitter.Properties.Resources.resources
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\Splitter.exe
+C:\Users\Виталий\Desktop\Splitter\Splitter\obj\x86\Debug\Splitter.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\bin\Debug\Splitter.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\bin\Debug\Splitter.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\MainWindow.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\MainWindow.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.exe
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.pdb
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\bin\Debug\Splitter.exe
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\bin\Debug\Splitter.pdb
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\MainWindow.baml
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\MainWindow.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\App.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter_MarkupCompile.cache
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.g.resources
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.Properties.Resources.resources
+D:\ЕКО-12-П11\WPF\Примеры\2. Контейнеры\6. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.csproj.GenerateResource.Cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\bin\Debug\Splitter.exe.config
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\bin\Debug\Splitter.exe
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\bin\Debug\Splitter.pdb
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.csprojResolveAssemblyReference.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\MainWindow.baml
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\MainWindow.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\App.g.cs
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter_MarkupCompile.cache
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.g.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.Properties.Resources.resources
+D:\IT Step\WPF\Примеры\2. Контейнеры\5. Контейнер Grid\4. Сплиттер\Splitter\Splitter\obj\x86\Debug\Splitter.csproj.GenerateResource.Cache

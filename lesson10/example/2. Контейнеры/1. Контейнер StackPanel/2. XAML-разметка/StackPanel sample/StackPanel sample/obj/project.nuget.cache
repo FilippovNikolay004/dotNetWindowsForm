@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CJvGWTFMOfT7k6Sc8HzlF6G740eodpogfD38R65ghTtkUAg8RxFkY1gIg845ocMccOQONy+l3W0oGfolavjjTg==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\2. Контейнеры\\1. Контейнер StackPanel\\2. XAML-разметка\\StackPanel sample\\StackPanel sample\\StackPanel sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

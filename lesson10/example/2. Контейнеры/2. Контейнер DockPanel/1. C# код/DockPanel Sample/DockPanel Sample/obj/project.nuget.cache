@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDFcNs77V0NRCxGUhROA0Z1H67uTzWG+f5M/cuzignUWid8w5hEWExWBZac9r+vYDnpntKnMUYMXfrFqTyWv7Q==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\2. Контейнеры\\2. Контейнер DockPanel\\1. C# код\\DockPanel Sample\\DockPanel Sample\\DockPanel Sample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
