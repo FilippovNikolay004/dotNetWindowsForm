@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h9tqHwTZqvGXieukVzDxejZx2KR99PjHYI1bADRqRXk8wYN0nMeqz4Ji2fpd3Kzp/M/hzZ8DNsoUq1PmNrJSeA==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\3. Элементы управления\\1. Создание элементов управления посредством XAML\\7. ContextMenu\\WpfApplication1\\WpfApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

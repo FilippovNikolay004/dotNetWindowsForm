@@ -1,0 +1,88 @@
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\bin\Debug\WpfApplication1.exe
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\bin\Debug\WpfApplication1.pdb
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\Window1.baml
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\Window1.g.cs
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\WpfApplication1.g.resources
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\Button.csproj.GenerateResource.Cache
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\WpfApplication1.exe
+C:\Учебный процесс\WPF\Уроки по WPF\Урок №1\Source\button\obj\Debug\WpfApplication1.pdb
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\WpfApplication1.exe
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\WpfApplication1.pdb
+C:\Учебный процесс\C#\WPF\Примеры\button\bin\Debug\WpfApplication1.exe
+C:\Учебный процесс\C#\WPF\Примеры\button\bin\Debug\WpfApplication1.pdb
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\Window1.baml
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\Window1.g.cs
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\App.g.cs
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\WpfApplication1.g.resources
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Учебный процесс\C#\WPF\Примеры\button\obj\Debug\Button.csproj.GenerateResource.Cache
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\WpfApplication1.exe
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\WpfApplication1.pdb
+C:\Учебный процесс\WPF\MediaElement\bin\Debug\WpfApplication1.exe
+C:\Учебный процесс\WPF\MediaElement\bin\Debug\WpfApplication1.pdb
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\Window1.baml
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\Window1.g.cs
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\WpfApplication1.g.resources
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Учебный процесс\WPF\MediaElement\obj\Debug\Button.csproj.GenerateResource.Cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\obj\Debug\WpfApplication1.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\obj\Debug\WpfApplication1.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\bin\Debug\WpfApplication1.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\bin\Debug\WpfApplication1.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\obj\Debug\Window1.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\obj\Debug\Window1.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\obj\Debug\WpfApplication1.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\16. MediaElement\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\obj\Debug\WpfApplication1.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\obj\Debug\WpfApplication1.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\bin\Debug\WpfApplication1.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\bin\Debug\WpfApplication1.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\obj\Debug\Window1.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\obj\Debug\Window1.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\obj\Debug\WpfApplication1.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\MediaElement\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.exe
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.pdb
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.exe
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.pdb
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\bin\Debug\WpfApplication1.exe
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\bin\Debug\WpfApplication1.pdb
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Window1.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Window1.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\App.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.g.resources
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Button.csproj.GenerateResource.Cache
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\bin\Debug\WpfApplication1.exe.config
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Button.csprojResolveAssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\bin\Debug\WpfApplication1.exe.config
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\bin\Debug\WpfApplication1.exe
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\bin\Debug\WpfApplication1.pdb
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Button.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Button.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Window1.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Window1.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\App.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.g.resources
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Button.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\Button.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.exe
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\5. MediaElement\obj\Debug\WpfApplication1.pdb

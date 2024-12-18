@@ -1,0 +1,433 @@
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\bin\Debug\ClassicControls.exe
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\bin\Debug\ClassicControls.pdb
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\CheckBoxList.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ComboBoxTest.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ImageList.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\IndeterminateProgressBar.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\PopupTest.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\RadioButtonGroups.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\SlidersCompared.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\SliderTest.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\TextBoxTest.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\Tooltips.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\Transparency.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\LabelTest.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\Menu.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\EmbeddedFont.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\CheckBoxList.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ComboBoxTest.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ImageList.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\IndeterminateProgressBar.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\PopupTest.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\RadioButtonGroups.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\SlidersCompared.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\SliderTest.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\TextBoxTest.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\Tooltips.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\Transparency.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\LabelTest.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\Menu.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\EmbeddedFont.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls_MarkupCompile.cache
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.g.resources
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.Properties.Resources.resources
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.csproj.GenerateResource.Cache
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.exe
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter07\ClassicControls\obj\Debug\ClassicControls.pdb
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.exe
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.pdb
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\bin\Debug\ClassicControls.exe
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\bin\Debug\ClassicControls.pdb
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\CheckBoxList.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ComboBoxTest.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ImageList.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\IndeterminateProgressBar.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\RadioButtonGroups.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\SlidersCompared.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\SliderTest.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\TextBoxTest.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\Tooltips.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\Transparency.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\LabelTest.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\Menu.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\EmbeddedFont.baml
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\CheckBoxList.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ComboBoxTest.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ImageList.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\IndeterminateProgressBar.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\RadioButtonGroups.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\SlidersCompared.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\SliderTest.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\TextBoxTest.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\Tooltips.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\Transparency.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\LabelTest.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\Menu.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\EmbeddedFont.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls_MarkupCompile.cache
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.g.resources
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.Properties.Resources.resources
+C:\Учебный процесс\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\bin\Debug\ClassicControls.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\bin\Debug\ClassicControls.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\CheckBoxList.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ComboBoxTest.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ImageList.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\IndeterminateProgressBar.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\RadioButtonGroups.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\SlidersCompared.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\SliderTest.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\TextBoxTest.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\Tooltips.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\Transparency.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\LabelTest.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\Menu.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\EmbeddedFont.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\CheckBoxList.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ComboBoxTest.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ImageList.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\IndeterminateProgressBar.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\RadioButtonGroups.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\SlidersCompared.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\SliderTest.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\TextBoxTest.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\Tooltips.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\Transparency.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\LabelTest.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\Menu.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\EmbeddedFont.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\App.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls_MarkupCompile.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.g.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\ClassicControls\obj\Debug\ClassicControls.csproj.GenerateResource.Cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\bin\Debug\ClassicControls.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\bin\Debug\ClassicControls.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\CheckBoxList.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ComboBoxTest.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ImageList.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\IndeterminateProgressBar.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\RadioButtonGroups.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\SlidersCompared.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\SliderTest.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\TextBoxTest.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\Tooltips.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\Transparency.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\LabelTest.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\Menu.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\EmbeddedFont.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\CheckBoxList.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ComboBoxTest.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ImageList.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\IndeterminateProgressBar.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\RadioButtonGroups.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\SlidersCompared.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\SliderTest.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\TextBoxTest.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\Tooltips.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\Transparency.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\LabelTest.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\Menu.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\EmbeddedFont.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\bin\Debug\ClassicControls.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\bin\Debug\ClassicControls.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\CheckBoxList.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ComboBoxTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ImageList.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\IndeterminateProgressBar.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\RadioButtonGroups.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\SlidersCompared.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\SliderTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\TextBoxTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\Tooltips.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\Transparency.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\LabelTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\Menu.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\EmbeddedFont.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\CheckBoxList.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ComboBoxTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ImageList.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\IndeterminateProgressBar.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\RadioButtonGroups.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\SlidersCompared.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\SliderTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\TextBoxTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\Tooltips.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\Transparency.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\LabelTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\Menu.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\EmbeddedFont.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\14. ClassicControls\obj\Debug\ClassicControls.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ClassicControls.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ClassicControls.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\bin\Debug\ClassicControls.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\bin\Debug\ClassicControls.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\CheckBoxList.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ComboBoxTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ImageList.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\IndeterminateProgressBar.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\RadioButtonGroups.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\SlidersCompared.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\SliderTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\TextBoxTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\Tooltips.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\Transparency.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\LabelTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\Menu.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\EmbeddedFont.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\CheckBoxList.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ComboBoxTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ImageList.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\IndeterminateProgressBar.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\RadioButtonGroups.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\SlidersCompared.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\SliderTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\TextBoxTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\Tooltips.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\Transparency.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\LabelTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\Menu.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\EmbeddedFont.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ClassicControls_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ClassicControls.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. ClassicControls\obj\Debug\ClassicControls.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ClassicControls.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ClassicControls.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\bin\Debug\ClassicControls.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\bin\Debug\ClassicControls.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\CheckBoxList.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ComboBoxTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ImageList.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\IndeterminateProgressBar.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\RadioButtonGroups.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\SlidersCompared.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\SliderTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\TextBoxTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\Tooltips.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\Transparency.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\LabelTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\Menu.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\EmbeddedFont.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\CheckBoxList.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ComboBoxTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ImageList.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\IndeterminateProgressBar.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\RadioButtonGroups.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\SlidersCompared.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\SliderTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\TextBoxTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\Tooltips.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\Transparency.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\LabelTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\Menu.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\EmbeddedFont.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ClassicControls_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ClassicControls.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\obj\Debug\ClassicControls.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ClassicControls.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ClassicControls.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\bin\Debug\ClassicControls.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\bin\Debug\ClassicControls.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\CheckBoxList.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ComboBoxTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ImageList.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\IndeterminateProgressBar.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\RadioButtonGroups.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\SlidersCompared.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\SliderTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\TextBoxTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\Tooltips.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\Transparency.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\LabelTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\Menu.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\EmbeddedFont.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\CheckBoxList.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ComboBoxTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ImageList.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\IndeterminateProgressBar.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\RadioButtonGroups.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\SlidersCompared.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\SliderTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\TextBoxTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\Tooltips.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\Transparency.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\LabelTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\Menu.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\EmbeddedFont.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ClassicControls_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ClassicControls.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\1. XAML\Classic controls\obj\Debug\ClassicControls.Properties.Resources.resources
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ClassicControls.exe
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ClassicControls.pdb
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\bin\Debug\ClassicControls.exe
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\bin\Debug\ClassicControls.pdb
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ClassicControls.csprojResolveAssemblyReference.cache
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\CheckBoxList.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ComboBoxTest.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ImageList.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\IndeterminateProgressBar.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\RadioButtonGroups.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\SlidersCompared.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\SliderTest.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\TextBoxTest.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\Tooltips.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\Transparency.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\LabelTest.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\Menu.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\EmbeddedFont.baml
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\CheckBoxList.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ComboBoxTest.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ImageList.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\IndeterminateProgressBar.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\RadioButtonGroups.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\SlidersCompared.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\SliderTest.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\TextBoxTest.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\Tooltips.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\Transparency.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\LabelTest.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\Menu.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\EmbeddedFont.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\App.g.cs
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ClassicControls_MarkupCompile.cache
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ClassicControls.g.resources
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ClassicControls.Properties.Resources.resources
+C:\СПУ-1111\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\Classic controls\obj\Debug\ClassicControls.csproj.GenerateResource.Cache
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.exe
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.pdb
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\bin\Debug\ClassicControls.exe
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\bin\Debug\ClassicControls.pdb
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\CheckBoxList.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ComboBoxTest.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ImageList.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\IndeterminateProgressBar.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\RadioButtonGroups.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SlidersCompared.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SliderTest.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\TextBoxTest.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Tooltips.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Transparency.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\LabelTest.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Menu.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\EmbeddedFont.baml
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\CheckBoxList.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ComboBoxTest.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ImageList.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\IndeterminateProgressBar.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\RadioButtonGroups.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SlidersCompared.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SliderTest.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\TextBoxTest.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Tooltips.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Transparency.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\LabelTest.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Menu.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\EmbeddedFont.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\App.g.cs
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls_MarkupCompile.cache
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.g.resources
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.Properties.Resources.resources
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.csproj.GenerateResource.Cache
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.csprojResolveAssemblyReference.cache
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.exe
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.pdb
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\bin\Debug\ClassicControls.exe
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\bin\Debug\ClassicControls.pdb
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.csprojResolveAssemblyReference.cache
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\CheckBoxList.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ComboBoxTest.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ImageList.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\IndeterminateProgressBar.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\RadioButtonGroups.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SlidersCompared.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SliderTest.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\TextBoxTest.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Tooltips.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Transparency.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\LabelTest.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Menu.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\EmbeddedFont.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\CheckBoxList.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ComboBoxTest.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ImageList.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\IndeterminateProgressBar.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\RadioButtonGroups.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SlidersCompared.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SliderTest.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\TextBoxTest.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Tooltips.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Transparency.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\LabelTest.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Menu.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\EmbeddedFont.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\App.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls_MarkupCompile.cache
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.g.resources
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.Properties.Resources.resources
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.csproj.GenerateResource.Cache
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\bin\Debug\ClassicControls.exe.config
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\bin\Debug\ClassicControls.exe.config
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\bin\Debug\ClassicControls.exe
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\bin\Debug\ClassicControls.pdb
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\CheckBoxList.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ComboBoxTest.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ImageList.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\IndeterminateProgressBar.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\RadioButtonGroups.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SlidersCompared.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SliderTest.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\TextBoxTest.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Tooltips.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Transparency.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\LabelTest.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Menu.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\EmbeddedFont.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\CheckBoxList.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ComboBoxTest.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ImageList.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\IndeterminateProgressBar.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\RadioButtonGroups.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SlidersCompared.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\SliderTest.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\TextBoxTest.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Tooltips.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Transparency.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\LabelTest.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\Menu.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\EmbeddedFont.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\App.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.g.resources
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.exe
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\1. Classic controls\obj\Debug\ClassicControls.pdb

@@ -1,0 +1,61 @@
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.exe
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.pdb
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\Window1.baml
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\Window1.g.cs
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\App.g.cs
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample_MarkupCompile.cache
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.g.resources
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.Properties.Resources.resources
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.csproj.GenerateResource.Cache
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.exe
+C:\Users\Vitaliy\Desktop\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\Window1.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\Window1.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\App.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample_MarkupCompile.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.g.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления\TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.csproj.GenerateResource.Cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\Window1.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\Window1.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\5. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\Window1.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\Window1.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\3. Элементы управления\15. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.Properties.Resources.resources
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.exe
+D:\БПУ-1211\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.pdb
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.exe
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.pdb
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.exe
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.pdb
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\Window1.baml
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\Window1.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\App.g.cs
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample_MarkupCompile.cache
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.g.resources
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.Properties.Resources.resources
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.csproj.GenerateResource.Cache
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\obj\Debug\TreeViewExample.csprojResolveAssemblyReference.cache
+D:\Programming\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\3. TreeViewExample\TreeViewExample\bin\Debug\TreeViewExample.exe.config

@@ -1,0 +1,60 @@
+﻿<Window x:Class="homework2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:homework2"
+        mc:Ignorable="d"
+        Title="Сейф" Height="450" Width="800">
+    <Grid>
+        <!-- Определяем колонки -->
+        <Grid.ColumnDefinitions>
+            <!-- Четыре равных столбца -->
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <!-- Строки для Labels -->
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+
+                <!-- Строки для кнопок -->
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <!-- Четыре равных столбца -->
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Строка 2 -->
+            <Button Content="7" Grid.Row="2" Grid.Column="0" Margin="5" FontSize="24" Click="Button_Click"/>
+            <Button Content="8" Grid.Row="2" Grid.Column="1" Margin="5" FontSize="24" Click="Button_Click"/>
+            <Button Content="9" Grid.Row="2" Grid.Column="2" Margin="5" FontSize="24" Click="Button_Click"/>
+
+            <!-- Строка 3 -->
+            <Button Content="4" Grid.Row="3" Grid.Column="0" Margin="5" FontSize="24" Click="Button_Click"/>
+            <Button Content="5" Grid.Row="3" Grid.Column="1" Margin="5" FontSize="24" Click="Button_Click"/>
+            <Button Content="6" Grid.Row="3" Grid.Column="2" Margin="5" FontSize="24" Click="Button_Click"/>
+
+            <!-- Строка 4 -->
+            <Button Content="1" Grid.Row="4" Grid.Column="0" Margin="5" FontSize="24" Click="Button_Click"/>
+            <Button Content="2" Grid.Row="4" Grid.Column="1" Margin="5" FontSize="24" Click="Button_Click"/>
+            <Button Content="3" Grid.Row="4" Grid.Column="2" Margin="5" FontSize="24" Click="Button_Click"/>
+
+            <!-- Строка 5 -->
+            <Button Content="C" Grid.Row="5" Grid.Column="0" Margin="5" FontSize="24" Click="Button_Click"/>
+            <Button Content="0" Grid.Row="5" Grid.Column="1" Margin="5" FontSize="24" Click="Button_Click"/>
+            <Button Content="Ok" Grid.Row="5" Grid.Column="2" Margin="5" FontSize="24" Click="Button_Click"/>
+        </Grid>
+
+        <Label Name="Label" FontSize="24"></Label>
+    </Grid>
+</Window>

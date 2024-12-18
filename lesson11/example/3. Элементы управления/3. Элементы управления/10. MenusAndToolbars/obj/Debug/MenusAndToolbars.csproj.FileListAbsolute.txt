@@ -1,0 +1,154 @@
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\bin\Debug\MenusAndToolbars.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\bin\Debug\MenusAndToolbars.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\BasicToolbar.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\Icons.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\Menu.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MenuWithSubheading.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MixedMenus.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\ProportionalStatusBar.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\SidebarMenu.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\ToolbarTrays.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\BasicToolbar.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\Menu.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MenuWithSubheading.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MixedMenus.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\ProportionalStatusBar.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\SidebarMenu.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\ToolbarTrays.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\App.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars_MarkupCompile.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars.g.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars.exe
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\bin\Debug\MenusAndToolbars.exe
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\bin\Debug\MenusAndToolbars.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\BasicToolbar.baml
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\Icons.baml
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\Menu.baml
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\MenuWithSubheading.baml
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\MixedMenus.baml
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\ProportionalStatusBar.baml
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\SidebarMenu.baml
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\ToolbarTrays.baml
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\BasicToolbar.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\Menu.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\MenuWithSubheading.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\MixedMenus.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\ProportionalStatusBar.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\SidebarMenu.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\ToolbarTrays.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Литература\Books\WPF Matthew MacDonald\Chapter18\MenusAndToolbars\obj\Debug\MenusAndToolbars.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\bin\Debug\MenusAndToolbars.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\bin\Debug\MenusAndToolbars.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\BasicToolbar.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\Icons.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\Menu.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenuWithSubheading.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MixedMenus.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ProportionalStatusBar.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\SidebarMenu.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ToolbarTrays.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\BasicToolbar.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\Menu.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenuWithSubheading.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MixedMenus.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ProportionalStatusBar.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\SidebarMenu.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ToolbarTrays.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\11. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.Properties.Resources.resources
+D:\БПУ-1211\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.exe
+D:\БПУ-1211\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.pdb
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.exe
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.pdb
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\bin\Debug\MenusAndToolbars.exe
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\bin\Debug\MenusAndToolbars.pdb
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.csprojResolveAssemblyReference.cache
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\BasicToolbar.baml
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\Icons.baml
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\Menu.baml
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenuWithSubheading.baml
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MixedMenus.baml
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ProportionalStatusBar.baml
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\SidebarMenu.baml
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ToolbarTrays.baml
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\BasicToolbar.g.cs
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\Menu.g.cs
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenuWithSubheading.g.cs
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MixedMenus.g.cs
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ProportionalStatusBar.g.cs
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\SidebarMenu.g.cs
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ToolbarTrays.g.cs
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\App.g.cs
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars_MarkupCompile.cache
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.g.resources
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.Properties.Resources.resources
+D:\Programming\WPF\Примеры\14. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.csproj.GenerateResource.Cache
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.exe
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.pdb
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\bin\Debug\MenusAndToolbars.exe
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\bin\Debug\MenusAndToolbars.pdb
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.csprojResolveAssemblyReference.cache
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\BasicToolbar.baml
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\Icons.baml
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\Menu.baml
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenuWithSubheading.baml
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MixedMenus.baml
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ProportionalStatusBar.baml
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\SidebarMenu.baml
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ToolbarTrays.baml
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\BasicToolbar.g.cs
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\Menu.g.cs
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenuWithSubheading.g.cs
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MixedMenus.g.cs
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ProportionalStatusBar.g.cs
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\SidebarMenu.g.cs
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\ToolbarTrays.g.cs
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\App.g.cs
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars_MarkupCompile.cache
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.g.resources
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.Properties.Resources.resources
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\obj\Debug\MenusAndToolbars.csproj.GenerateResource.Cache
+D:\Programming\WPF\Примеры\15. Меню и панели инструментов\MenusAndToolbars\bin\Debug\MenusAndToolbars.exe.config
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\bin\Debug\MenusAndToolbars.exe.config
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\bin\Debug\MenusAndToolbars.exe
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\bin\Debug\MenusAndToolbars.pdb
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenusAndToolbars.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenusAndToolbars.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\BasicToolbar.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\Icons.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\Menu.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenuWithSubheading.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MixedMenus.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\ProportionalStatusBar.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\SidebarMenu.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\ToolbarTrays.baml
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\BasicToolbar.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\Menu.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenuWithSubheading.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MixedMenus.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\ProportionalStatusBar.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\SidebarMenu.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\ToolbarTrays.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\App.g.cs
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenusAndToolbars_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenusAndToolbars.g.resources
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenusAndToolbars.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenusAndToolbars.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenusAndToolbars.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenusAndToolbars.exe
+D:\ITSTEP\WPF\Примеры\3. Элементы управления\1. Создание элементов управления посредством XAML\10. MenusAndToolbars\obj\Debug\MenusAndToolbars.pdb

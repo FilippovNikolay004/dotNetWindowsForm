@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson10\\homework\\homework2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{819EBB1C-2A87-438A-9A1D-5EA088CF6AB4}|homework2\\homework2.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson10\\homework\\homework2\\homework2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819EBB1C-2A87-438A-9A1D-5EA088CF6AB4}|homework2\\homework2.csproj|solutionrelative:homework2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819EBB1C-2A87-438A-9A1D-5EA088CF6AB4}|homework2\\homework2.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson10\\homework\\homework2\\homework2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{819EBB1C-2A87-438A-9A1D-5EA088CF6AB4}|homework2\\homework2.csproj|solutionrelative:homework2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson10\\homework\\homework2\\homework2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "homework2\\MainWindow.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson10\\homework\\homework2\\homework2\\MainWindow.xaml",
+              "RelativeToolTip": "homework2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T11:13:44.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson10\\homework\\homework2\\homework2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "homework2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson10\\homework\\homework2\\homework2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "homework2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA1wCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:13:42.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

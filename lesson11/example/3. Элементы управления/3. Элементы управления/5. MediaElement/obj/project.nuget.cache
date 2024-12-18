@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aF+AN2f5JXrtujpdi2MxEZnk02c53LgzOX0rcbRADGx4IUghdzh+EGew+Ui9+c5yIUgdHVf6MWHXdVldqwbm+A==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\3. Элементы управления\\1. Создание элементов управления посредством XAML\\5. MediaElement\\Button.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

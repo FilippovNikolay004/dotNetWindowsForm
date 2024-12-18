@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bpzb3r2djEhPEBucDBbn7Ii8ENOHUMNFy9cfr/K4QRaJPxaspIe9KbaNvEJE3diT3HomABZ5YXoOmfkUekKWSA==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\3. Элементы управления\\1. Создание элементов управления посредством XAML\\3. TreeViewExample\\TreeViewExample\\TreeViewExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

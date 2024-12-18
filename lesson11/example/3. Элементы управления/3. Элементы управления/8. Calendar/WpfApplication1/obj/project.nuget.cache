@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6OCrqsnxYjQ8sAgvTp5ZnjqOllb0+8es8gfdxQ318/wvqUllmUBvM+1jmU9A5UpAdRdV0urIukf1+7lVJitzA==",
+  "success": true,
+  "projectFilePath": "D:\\ITSTEP\\WPF\\Примеры\\3. Элементы управления\\1. Создание элементов управления посредством XAML\\8. Calendar\\WpfApplication1\\WpfApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

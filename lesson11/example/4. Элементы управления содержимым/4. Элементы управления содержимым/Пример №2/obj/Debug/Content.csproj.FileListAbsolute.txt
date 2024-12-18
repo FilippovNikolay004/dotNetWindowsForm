@@ -1,0 +1,265 @@
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\bin\Debug\Content.exe
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\bin\Debug\Content.pdb
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonsWithContent.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonWithShape.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonWithViewboxContent.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ExpandableContent.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ExpandableScrollableContent.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\GraphicalTabTitles.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\GroupBoxTest.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\LogicalScrolling.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Menu.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\MultiDirectionExpanders.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ScrollableTextBoxColumn.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\PaddingComparison.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\SimpleBorder.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\TabTest.baml
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonsWithContent.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonWithShape.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonWithViewboxContent.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ExpandableContent.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ExpandableScrollableContent.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\GraphicalTabTitles.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\GroupBoxTest.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\LogicalScrolling.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Menu.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\MultiDirectionExpanders.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ScrollableTextBoxColumn.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\PaddingComparison.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\SimpleBorder.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\TabTest.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\App.g.cs
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content_MarkupCompile.cache
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.g.resources
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.Properties.Resources.resources
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.csproj.GenerateResource.Cache
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.exe
+C:\Учебный процесс\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\bin\Debug\Content.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\bin\Debug\Content.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonsWithContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonWithShape.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonWithViewboxContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ExpandableContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ExpandableScrollableContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\GraphicalTabTitles.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\GroupBoxTest.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\LogicalScrolling.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Menu.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\MultiDirectionExpanders.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ScrollableTextBoxColumn.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\PaddingComparison.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\SimpleBorder.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\TabTest.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonsWithContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonWithShape.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ButtonWithViewboxContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ExpandableContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ExpandableScrollableContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\GraphicalTabTitles.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\GroupBoxTest.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\LogicalScrolling.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Menu.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\MultiDirectionExpanders.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\ScrollableTextBoxColumn.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\PaddingComparison.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\SimpleBorder.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\TabTest.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\App.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content_MarkupCompile.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.g.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter05\Content\obj\Debug\Content.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\Content.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\Content.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\bin\Debug\Content.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\bin\Debug\Content.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\ButtonWithShape.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\ButtonWithViewboxContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\ExpandableContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\ExpandableScrollableContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\GraphicalTabTitles.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\Menu.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\MultiDirectionExpanders.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\SimpleBorder.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\TabTest.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\ButtonWithShape.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\ButtonWithViewboxContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\ExpandableContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\ExpandableScrollableContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\GraphicalTabTitles.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\Menu.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\MultiDirectionExpanders.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\SimpleBorder.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\TabTest.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\App.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\Content_MarkupCompile.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\Content.g.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\Content.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\Content\obj\Debug\Content.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\Content.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\Content.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\bin\Debug\Content.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\bin\Debug\Content.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithShape.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\Menu.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\SimpleBorder.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\TabTest.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithShape.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\Menu.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\SimpleBorder.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\TabTest.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\App.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\Content_MarkupCompile.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\Content.g.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\Content.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Элементы управления содержимым\Пример №2\obj\Debug\Content.csproj.GenerateResource.Cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithShape.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\SimpleBorder.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithShape.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\SimpleBorder.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.Properties.Resources.resources
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.exe
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.pdb
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.exe
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.pdb
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ResolveAssemblyReference.cache
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithShape.baml
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.baml
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.baml
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.baml
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.baml
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.baml
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.baml
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\SimpleBorder.baml
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.baml
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithShape.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\SimpleBorder.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\App.g.cs
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content_MarkupCompile.cache
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.g.resources
+C:\Vitaliy\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.Properties.Resources.resources
+C:\СПУ-1111\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.exe
+C:\СПУ-1111\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.pdb
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.exe
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.pdb
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.exe
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.pdb
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.baml
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.baml
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.baml
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.baml
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.baml
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.baml
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.baml
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.g.cs
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.g.cs
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.g.cs
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.g.cs
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.g.cs
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.g.cs
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.g.cs
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\App.g.cs
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content_MarkupCompile.cache
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.g.resources
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.Properties.Resources.resources
+D:\БПУ-1211\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.exe
+D:\БПУ-1211\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.pdb
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.csproj.GenerateResource.Cache
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.exe.config
+D:\Programming\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.csprojResolveAssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.exe.config
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.exe
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\bin\Debug\Content.pdb
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.csproj.AssemblyReference.cache
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.csproj.SuggestedBindingRedirects.cache
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.baml
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.baml
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.baml
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.baml
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.baml
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.baml
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.baml
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ButtonWithViewboxContent.g.cs
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableContent.g.cs
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\ExpandableScrollableContent.g.cs
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\GraphicalTabTitles.g.cs
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Menu.g.cs
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\MultiDirectionExpanders.g.cs
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\TabTest.g.cs
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\App.g.cs
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content_MarkupCompile.cache
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.g.resources
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.Properties.Resources.resources
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.csproj.GenerateResource.cache
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.csproj.CoreCompileInputs.cache
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.exe
+D:\ITSTEP\WPF\Примеры\4. Элементы управления содержимым\Пример №2\obj\Debug\Content.pdb
