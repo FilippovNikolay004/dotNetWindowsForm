@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{9E3E1D87-6248-41A1-8392-52F628D93CB2}|WpfApplication1\\WpfApplication1.csproj|solutionrelative:wpfapplication1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E3E1D87-6248-41A1-8392-52F628D93CB2}|WpfApplication1\\WpfApplication1.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\hw\\wpfapplication1\\window1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{9E3E1D87-6248-41A1-8392-52F628D93CB2}|WpfApplication1\\WpfApplication1.csproj|D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\HW\\wpfapplication1\\window1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{9E3E1D87-6248-41A1-8392-52F628D93CB2}|WpfApplication1\\WpfApplication1.csproj|solutionrelative:wpfapplication1\\window1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "WpfApplication1\\Window1.xaml.cs",
               "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\HW\\WpfApplication1\\Window1.xaml.cs",
               "RelativeToolTip": "WpfApplication1\\Window1.xaml.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T12:03:16.648Z",
               "EditorCaption": ""
