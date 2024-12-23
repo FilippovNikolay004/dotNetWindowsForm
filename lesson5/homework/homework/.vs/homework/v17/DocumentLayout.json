@@ -67,8 +67,7 @@
               "RelativeToolTip": "homework\\GamePresenter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:08:55.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T18:08:55.282Z"
             },
             {
               "$type": "Document",
@@ -80,8 +79,7 @@
               "RelativeToolTip": "homework\\IGameView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:09:19.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T18:09:19.974Z"
             },
             {
               "$type": "Document",
@@ -91,7 +89,7 @@
               "RelativeDocumentMoniker": "homework\\Model.cs",
               "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Model.cs",
               "RelativeToolTip": "homework\\Model.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwGgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T18:08:00.787Z",
               "EditorCaption": ""
@@ -106,8 +104,7 @@
               "RelativeToolTip": "homework\\IModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:07:16.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T18:07:16.73Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson5\\homework\\homework\\homework\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "homework\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:53:10.968Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-11-29T20:53:10.968Z"
             }
           ]
         }

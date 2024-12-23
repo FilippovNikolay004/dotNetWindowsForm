@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson11\\practice\\practice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56A692EE-8A65-41ED-8CAC-D84894504DB3}|practice\\practice.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson11\\practice\\practice\\practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{56A692EE-8A65-41ED-8CAC-D84894504DB3}|practice\\practice.csproj|solutionrelative:practice\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56A692EE-8A65-41ED-8CAC-D84894504DB3}|practice\\practice.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson11\\practice\\practice\\practice\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{56A692EE-8A65-41ED-8CAC-D84894504DB3}|practice\\practice.csproj|solutionrelative:practice\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson11\\practice\\practice\\practice\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "practice\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson11\\practice\\practice\\practice\\MainWindow.xaml.cs",
+              "RelativeToolTip": "practice\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:36:30.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson11\\practice\\practice\\practice\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "practice\\MainWindow.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson11\\practice\\practice\\practice\\MainWindow.xaml",
+              "RelativeToolTip": "practice\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T12:35:53.094Z",
+              "EditorCaption": ""
             }
           ]
         }

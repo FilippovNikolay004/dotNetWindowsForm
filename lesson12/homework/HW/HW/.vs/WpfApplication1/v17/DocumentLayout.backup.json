@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3E1D87-6248-41A1-8392-52F628D93CB2}|WpfApplication1\\WpfApplication1.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\hw\\wpfapplication1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E3E1D87-6248-41A1-8392-52F628D93CB2}|WpfApplication1\\WpfApplication1.csproj|solutionrelative:wpfapplication1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3E1D87-6248-41A1-8392-52F628D93CB2}|WpfApplication1\\WpfApplication1.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\hw\\wpfapplication1\\window1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{9E3E1D87-6248-41A1-8392-52F628D93CB2}|WpfApplication1\\WpfApplication1.csproj|solutionrelative:wpfapplication1\\window1.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\HW\\WpfApplication1\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApplication1\\Window1.xaml.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\HW\\WpfApplication1\\Window1.xaml.cs",
+              "RelativeToolTip": "WpfApplication1\\Window1.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:03:16.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\HW\\WpfApplication1\\Window1.xaml",
+              "RelativeDocumentMoniker": "WpfApplication1\\Window1.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\HW\\WpfApplication1\\Window1.xaml",
+              "RelativeToolTip": "WpfApplication1\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T12:03:11.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
