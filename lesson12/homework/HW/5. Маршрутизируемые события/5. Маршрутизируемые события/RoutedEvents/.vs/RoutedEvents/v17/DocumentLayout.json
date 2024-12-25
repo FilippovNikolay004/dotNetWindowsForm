@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\routedevents\\tunneledkeypress.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|solutionrelative:tunneledkeypress.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\routedevents\\tunneledkeypress.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|solutionrelative:tunneledkeypress.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\routedevents\\keypressevents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|solutionrelative:keypressevents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\routedevents\\keymodifiers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|solutionrelative:keymodifiers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\routedevents\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|solutionrelative:menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\routedevents\\mouseposition.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|solutionrelative:mouseposition.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson12\\homework\\hw\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u043C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\routedevents\\onlynumbers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63C2196A-B88B-45C5-9F34-EF80E4176322}|RoutedEvents.csproj|solutionrelative:onlynumbers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TunneledKeyPress.xaml.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\TunneledKeyPress.xaml.cs",
+              "RelativeDocumentMoniker": "TunneledKeyPress.xaml.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\TunneledKeyPress.xaml.cs",
+              "RelativeToolTip": "TunneledKeyPress.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:15:21.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TunneledKeyPress.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\TunneledKeyPress.xaml",
+              "RelativeDocumentMoniker": "TunneledKeyPress.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\TunneledKeyPress.xaml",
+              "RelativeToolTip": "TunneledKeyPress.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T16:14:06.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyModifiers.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\KeyModifiers.xaml",
+              "RelativeDocumentMoniker": "KeyModifiers.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\KeyModifiers.xaml",
+              "RelativeToolTip": "KeyModifiers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T16:14:16.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyPressEvents.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\KeyPressEvents.xaml",
+              "RelativeDocumentMoniker": "KeyPressEvents.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\KeyPressEvents.xaml",
+              "RelativeToolTip": "KeyPressEvents.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T16:14:14.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\Menu.xaml",
+              "RelativeDocumentMoniker": "Menu.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\Menu.xaml",
+              "RelativeToolTip": "Menu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T16:14:13.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MousePosition.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\MousePosition.xaml",
+              "RelativeDocumentMoniker": "MousePosition.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\MousePosition.xaml",
+              "RelativeToolTip": "MousePosition.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T16:14:12.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlyNumbers.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\OnlyNumbers.xaml",
+              "RelativeDocumentMoniker": "OnlyNumbers.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson12\\homework\\HW\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\5. \u041C\u0430\u0440\u0448\u0440\u0443\u0442\u0438\u0437\u0438\u0440\u0443\u0435\u043C\u044B\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u044F\\RoutedEvents\\OnlyNumbers.xaml",
+              "RelativeToolTip": "OnlyNumbers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-24T16:14:11.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

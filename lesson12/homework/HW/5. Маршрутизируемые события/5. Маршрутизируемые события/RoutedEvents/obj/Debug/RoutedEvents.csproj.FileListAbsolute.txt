@@ -1,0 +1,270 @@
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\bin\Debug\happyface.jpg
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\bin\Debug\RoutedEvents.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\bin\Debug\RoutedEvents.pdb
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\ButtonMouseUpEvent.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\DragAndDrop.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\Focus.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\KeyModifiers.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\KeyPressEvents.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\Menu.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\MousePosition.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\OnlyNumbers.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\ButtonMouseUpEvent.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\DragAndDrop.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\Focus.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\Menu.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\MousePosition.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\App.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\RoutedEvents.csproj.GenerateResource.Cache
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\RoutedEvents.exe
+C:\Documents and Settings\Polyanskiy\Рабочий стол\WPF\Books\Pro WPF\Chapter06\RoutedEvents\obj\Debug\RoutedEvents.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\bin\Debug\happyface.jpg
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.pdb
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\Focus.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\Focus.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\App.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+C:\Учебный процесс\Windows Presentation Foundation\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csproj.GenerateResource.Cache
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\Focus.baml
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.baml
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.baml
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.baml
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.baml
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.baml
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\Focus.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\App.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\bin\Debug\happyface.jpg
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.pdb
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.exe
+C:\Vitaliy\WPF\Примеры\Примеры\6. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.pdb
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.exe
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.pdb
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\happyface.jpg
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.pdb
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\ResolveAssemblyReference.cache
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.baml
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.baml
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.baml
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.baml
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.baml
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.g.cs
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.g.cs
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\App.g.cs
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+C:\Vitaliy\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\happyface.jpg
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.pdb
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\ResolveAssemblyReference.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\App.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+D:\Учебный процесс\БПВ-0921\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.exe
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.pdb
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\happyface.jpg
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.pdb
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csprojResolveAssemblyReference.cache
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.baml
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.baml
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.baml
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.baml
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.baml
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.g.cs
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.g.cs
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\App.g.cs
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+C:\СПУ-1111\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csproj.GenerateResource.Cache
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.exe
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.pdb
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\happyface.jpg
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.pdb
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csprojResolveAssemblyReference.cache
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.baml
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.baml
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.baml
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.baml
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.baml
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.g.cs
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.g.cs
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\App.g.cs
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csproj.GenerateResource.Cache
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.exe
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.pdb
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\happyface.jpg
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.pdb
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csprojResolveAssemblyReference.cache
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.baml
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.baml
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.baml
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.baml
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.baml
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\App.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+D:\ЕКО-12-П11\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csproj.GenerateResource.Cache
+D:\Vitaliy\WPF\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe.config
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe.config
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.exe
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.pdb
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\happyface.jpg
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.pdb
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.baml
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.baml
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.baml
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.baml
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.baml
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.g.cs
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.g.cs
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\App.g.cs
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+D:\IT Step\WPF\Примеры\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csproj.GenerateResource.Cache
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\bin\Debug\happyface.jpg
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe.config
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.exe
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\bin\Debug\RoutedEvents.pdb
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csproj.AssemblyReference.cache
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.baml
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.baml
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.baml
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.baml
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.baml
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.baml
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.baml
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyModifiers.g.cs
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\KeyPressEvents.g.cs
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\Menu.g.cs
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\BubbledLabelClick.g.cs
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\MousePosition.g.cs
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\OnlyNumbers.g.cs
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\TunneledKeyPress.g.cs
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\App.g.cs
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_Content.g.cs
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents_MarkupCompile.cache
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.g.resources
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.Properties.Resources.resources
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csproj.GenerateResource.cache
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.csproj.CoreCompileInputs.cache
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.exe
+D:\Step\3 course\dotNetWindowsForm\lesson12\homework\HW\5. Маршрутизируемые события\5. Маршрутизируемые события\RoutedEvents\obj\Debug\RoutedEvents.pdb
