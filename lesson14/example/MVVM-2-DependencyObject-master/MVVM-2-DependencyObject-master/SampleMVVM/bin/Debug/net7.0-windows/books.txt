@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Title": "WPF",
+    "Author": "Мэтью Мак-Дональд",
+    "Count": 5
+  },
+  {
+    "Title": "CLR via C#",
+    "Author": "Джеффри Рихтер",
+    "Count": 3
+  },
+  {
+    "Title": "C#",
+    "Author": "Герберт Шилдт",
+    "Count": 7
+  }
+]

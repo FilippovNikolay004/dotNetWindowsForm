@@ -167,6 +167,7 @@ namespace KeyboardTrainer {
             return word;
         }
         private void KeyPressEffect(string keyPress) {
+            
         }
         private bool IsCorrectButton(string pressButton, char correctButton) {
             if (pressButton == correctButton.ToString())

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson14\\example\\mvvm-2-dependencyobject-master\\mvvm-2-dependencyobject-master\\samplemvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson14\\example\\mvvm-2-dependencyobject-master\\mvvm-2-dependencyobject-master\\samplemvvm\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\viewmodels\\bookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson14\\example\\mvvm-2-dependencyobject-master\\mvvm-2-dependencyobject-master\\samplemvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson14\\example\\mvvm-2-dependencyobject-master\\mvvm-2-dependencyobject-master\\samplemvvm\\views\\mainview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\views\\mainview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson14\\example\\mvvm-2-dependencyobject-master\\mvvm-2-dependencyobject-master\\samplemvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A1BB866-BDD9-420F-9F37-D086F0E768BA}|SampleMVVM\\SampleMVVM.csproj|solutionrelative:samplemvvm\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\App.xaml.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\App.xaml.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\App.xaml.cs",
+              "RelativeToolTip": "SampleMVVM\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T12:00:01.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookViewModel.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\ViewModels\\BookViewModel.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\ViewModels\\BookViewModel.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\ViewModels\\BookViewModel.cs",
+              "RelativeToolTip": "SampleMVVM\\ViewModels\\BookViewModel.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwIAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T11:57:09.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "SampleMVVM\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "SampleMVVM\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:18:31.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "15a91f66-a077-411d-9bcf-6d6f8b7448f9",
+        "Display": 0,
+        "X": 731,
+        "Y": 219,
+        "Width": 903,
+        "Height": 786,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "SampleMVVM\\Views\\MainView.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\Views\\MainView.xaml",
+              "RelativeToolTip": "SampleMVVM\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T11:07:31.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "SampleMVVM\\Views\\MainView.xaml",
+              "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson14\\example\\MVVM-2-DependencyObject-master\\MVVM-2-DependencyObject-master\\SampleMVVM\\Views\\MainView.xaml",
+              "RelativeToolTip": "SampleMVVM\\Views\\MainView.xaml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAjwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T11:08:53.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson13\\homework\\KeyboardTrainer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2EB1181-2966-498A-997F-059B3E0BA9AE}|KeyboardTrainer\\KeyboardTrainer.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson13\\homework\\keyboardtrainer\\keyboardtrainer\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B2EB1181-2966-498A-997F-059B3E0BA9AE}|KeyboardTrainer\\KeyboardTrainer.csproj|solutionrelative:keyboardtrainer\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B2EB1181-2966-498A-997F-059B3E0BA9AE}|KeyboardTrainer\\KeyboardTrainer.csproj|D:\\Step\\3 course\\dotNetWindowsForm\\lesson13\\homework\\KeyboardTrainer\\keyboardtrainer\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B2EB1181-2966-498A-997F-059B3E0BA9AE}|KeyboardTrainer\\KeyboardTrainer.csproj|solutionrelative:keyboardtrainer\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2EB1181-2966-498A-997F-059B3E0BA9AE}|KeyboardTrainer\\KeyboardTrainer.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson13\\homework\\keyboardtrainer\\keyboardtrainer\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{B2EB1181-2966-498A-997F-059B3E0BA9AE}|KeyboardTrainer\\KeyboardTrainer.csproj|solutionrelative:keyboardtrainer\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{B2EB1181-2966-498A-997F-059B3E0BA9AE}|KeyboardTrainer\\KeyboardTrainer.csproj|d:\\step\\3 course\\dotnetwindowsform\\lesson13\\homework\\keyboardtrainer\\keyboardtrainer\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B2EB1181-2966-498A-997F-059B3E0BA9AE}|KeyboardTrainer\\KeyboardTrainer.csproj|solutionrelative:keyboardtrainer\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson13\\homework\\KeyboardTrainer\\KeyboardTrainer\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "KeyboardTrainer\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson13\\homework\\KeyboardTrainer\\KeyboardTrainer\\MainWindow.xaml.cs",
               "RelativeToolTip": "KeyboardTrainer\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T19:55:28.075Z",
               "EditorCaption": ""
@@ -64,13 +64,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson13\\homework\\KeyboardTrainer\\KeyboardTrainer\\MainWindow.xaml",
               "RelativeDocumentMoniker": "KeyboardTrainer\\MainWindow.xaml",
               "ToolTip": "D:\\Step\\3 course\\dotNetWindowsForm\\lesson13\\homework\\KeyboardTrainer\\KeyboardTrainer\\MainWindow.xaml",
               "RelativeToolTip": "KeyboardTrainer\\MainWindow.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAEoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-25T21:19:34.252Z",
               "EditorCaption": ""
